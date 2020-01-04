@@ -5,7 +5,7 @@ mongoose.connect('mongodb+srv://muzammal6313:ashrafi9885@cluster0-4hc2l.mongodb.
     {useNewUrlParser: true}).then(() => console.log('connected')).catch(err =>{
     console.log(err);});
 
-const Student = require('../models/Student');
+const Student = require('./models/Student');
 const cors = require('cors');
 const express = require('express');
 const app = express();
