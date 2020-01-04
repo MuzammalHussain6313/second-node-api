@@ -16,29 +16,29 @@ Connected with online cluster of mongodb.
 </ul>
 <ol>
   Home Page of API
-  <li><a href = "https://test-node-api-test.herokuapp.com/">https://test-node-api-test.herokuapp.com</a></li>
+  <li><a href = "https://second-node-api.herokuapp.com/">https://second-node-api.herokuapp.com</a></li>
   <h4> API endpoints for Student.</h4>
   Get method to get All Students.
-  <li><a href = "https://test-node-api-test.herokuapp.com/students/getStudents">https://test-node-api-test.herokuapp.com/students/getStudents</a></li>
+  <li><a href = "https://second-node-api.herokuapp.com/students/getStudents">https://second-node-api.herokuapp.com/students/getStudents</a></li>
   Get method to get student by id.
-  <li><a href = "https://test-node-api-test.herokuapp.com/students/{id}">https://test-node-api-test.herokuapp.com/students/{id}</a></li>
+  <li><a href = "https://second-node-api.herokuapp.com/students/{id}">https://second-node-api.herokuapp.com/students/{id}</a></li>
   Patch method to Update existing user by providing id of student.
-  <li><a href = "https://test-node-api-test.herokuapp.com/students/{id}">https://test-node-api-test.herokuapp.com/students/{id}</a></li>
+  <li><a href = "https://second-node-api.herokuapp.com/students/{id}">https://second-node-api.herokuapp.com/students/{id}</a></li>
   Dlete method to Delete existing usetr by providing the id of student.
-  <li><a href = "https://test-node-api-test.herokuapp.com/students/{id}">https://test-node-api-test.herokuapp.com/students/{id}</a></li>
+  <li><a href = "https://second-node-api.herokuapp.com/students/{id}">https://second-node-api.herokuapp.com/students/{id}</a></li>
   <h4> API endpoints for property dealer.</h4>
   Get method to get property List.
-  <li><a href = "https://test-node-api-test.herokuapp.com/properties/getproperties">https://test-node-api-test.herokuapp.com/properties/getproperties</a></li>
+  <li><a href = "https://second-node-api.herokuapp.com/properties/getproperties">https://second-node-api.herokuapp.com/properties/getproperties</a></li>
   Get method to get property by id.
-  <li><a href = "https://test-node-api-test.herokuapp.com/properties/{id}">https://test-node-api-test.herokuapp.com/properties/{id}</a></li>
+  <li><a href = "https://second-node-api.herokuapp.com/properties/{id}">https://second-node-api.herokuapp.com/properties/{id}</a></li>
   Patch method to Update existing user by providing id of property.
-  <li><a href = "https://test-node-api-test.herokuapp.com/properties/{id}">https://test-node-api-test.herokuapp.com/properties/{id}</a></li>
+  <li><a href = "https://second-node-api.herokuapp.com/properties/{id}">https://second-node-api.herokuapp.com/properties/{id}</a></li>
   Dlete method to Delete existing usetr by providing the id of property.
-  <li><a href = "https://test-node-api-test.herokuapp.com/properties/{id}">https://test-node-api-test.herokuapp.com/properties/{id}</a></li>
+  <li><a href = "https://second-node-api.herokuapp.com/properties/{id}">https://second-node-api.herokuapp.com/properties/{id}</a></li>
   Get method to get Old posts.
-  <li><a href = "https://test-node-api-test.herokuapp.com/posts/oldposts">https://test-node-api-test.herokuapp.com/students/{id}</a></li>
+  <li><a href = "https://second-node-api.herokuapp.com/posts/oldposts">https://second-node-api.herokuapp.com/students/{id}</a></li>
   Get method to get new posts.
-  <li><a href = "https://test-node-api-test.herokuapp.com/posts/newPosts">https://test-node-api-test.herokuapp.com/students/{id}</a></li>
+  <li><a href = "https://second-node-api.herokuapp.com/posts/newPosts">https://second-node-api.herokuapp.com/students/{id}</a></li>
 </ol>  
 
 <br><p>Login the page</p><br>
